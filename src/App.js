@@ -1,3 +1,5 @@
+//Este es un proyecto básico de React y Particles
+
 import React, { useCallback } from 'react';
 import Particles from "react-particles";
 import { loadFull } from "tsparticles";
